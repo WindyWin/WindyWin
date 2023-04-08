@@ -1,4 +1,9 @@
 ### Hi there 👋
+Dang Dinh
+---
+![](https://github-readme-stats.vercel.app/api?username=WindyWin&show_icons=true&theme=transparent)
+
+![](https://komarev.com/ghpvc/?username=WindyWin&color=blue)
 
 <!--
 **WindyWin/WindyWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
